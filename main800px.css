@@ -1,0 +1,51 @@
+@media(max-width:800px){
+.art article p {
+  color: #774E2E;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size: 10px;
+  font-family: Montserrat-Medium;
+}
+.tovar p {
+    font-family: Montserrat-Medium;
+    font-size: 10px;
+    padding: 5px;
+    text-align: center;
+    color: #774E2E;
+  }
+  h3 {
+    font-family: Montserrat-SemiBold;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    color: #774E2E;
+    margin-bottom: 10px;
+  }
+  .art ul {
+    font-family: Montserrat-Medium;
+    font-size: 10px;
+    color: #774E2E;
+  }
+  footer div {  
+    font-size: 10px;
+   
+  }
+  footer img {
+    width: 59px;
+    height: 59px;
+    margin: 10px;
+  }
+  .art {
+    margin-top: 42px;
+  }
+  main {  
+    padding-top: 0px;
+  }
+  .box{
+    margin-bottom: 40px;
+  }
+  .sales{
+    margin-top: 20px;
+  }
+
+}
